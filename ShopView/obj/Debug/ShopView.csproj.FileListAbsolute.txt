@@ -1,0 +1,36 @@
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\bin\Debug\ShopView.exe.config
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\bin\Debug\ShopView.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\bin\Debug\ShopView.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.csprojResolveAssemblyReference.cache
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.Properties.Resources.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.csproj.GenerateResource.Cache
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\bin\Debug\ShopController.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\bin\Debug\ShopModel.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\bin\Debug\ShopController.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\bin\Debug\ShopModel.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.Form1.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.FormMain.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.QuanLyNhaCungCap.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.QuanLyTaiKKhoan.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.QuanLyNhanVien.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.DangNhap.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\bin\Debug\ShopView.exe.config
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\bin\Debug\ShopView.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\bin\Debug\ShopView.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\bin\Debug\ShopController.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\bin\Debug\ShopModel.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\bin\Debug\ShopController.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\bin\Debug\ShopModel.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.DangNhap.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.Form1.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.Properties.Resources.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.FormMain.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.QuanLyNhaCungCap.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.QuanLyNhanVien.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.QuanLyTaiKKhoan.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopView\obj\Debug\ShopView.csproj.GenerateResource.Cache

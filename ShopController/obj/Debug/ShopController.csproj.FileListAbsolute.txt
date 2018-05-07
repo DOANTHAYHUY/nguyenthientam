@@ -1,0 +1,20 @@
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\bin\Debug\ShopController.exe.config
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\bin\Debug\ShopController.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\bin\Debug\ShopController.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.csprojResolveAssemblyReference.cache
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.Properties.Resources.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.csproj.GenerateResource.Cache
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\bin\Debug\ShopModel.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopController\bin\Debug\ShopModel.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\bin\Debug\ShopController.exe.config
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\bin\Debug\ShopController.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\bin\Debug\ShopController.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\bin\Debug\ShopModel.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\bin\Debug\ShopModel.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.Properties.Resources.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopController\obj\Debug\ShopController.pdb

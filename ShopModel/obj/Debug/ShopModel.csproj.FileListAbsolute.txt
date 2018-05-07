@@ -1,0 +1,16 @@
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\bin\Debug\ShopModel.exe.config
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\bin\Debug\ShopModel.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\bin\Debug\ShopModel.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.Properties.Resources.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.csproj.GenerateResource.Cache
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\bin\Debug\ShopModel.exe.config
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\bin\Debug\ShopModel.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\bin\Debug\ShopModel.pdb
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.Properties.Resources.resources
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.exe
+C:\Users\PC\Desktop\WinfomrGui (2)\WinfomrGui\QuanLyShopQuanAo\ShopModel\obj\Debug\ShopModel.pdb

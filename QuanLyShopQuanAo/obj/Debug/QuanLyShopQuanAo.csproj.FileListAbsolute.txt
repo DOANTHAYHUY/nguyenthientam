@@ -1,0 +1,14 @@
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csprojResolveAssemblyReference.cache
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.Cache
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\ShopController.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\ShopModel.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\ShopView.exe
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\ShopController.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\ShopModel.pdb
+D:\ThangHV\Project\Winform\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\ShopView.pdb
